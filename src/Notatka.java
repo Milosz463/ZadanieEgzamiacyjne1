@@ -21,7 +21,7 @@ public class Notatka {
         if (tresc.equals("")) {
             System.out.println("Dodaj cos do noatki");
         } else {
-            System.out.println("Tytul: " + tytul + "Tresc " + tresc);
+            System.out.println("Tytul: " + tytul + "Tresc: " + tresc);
         }
     }
 
